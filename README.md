@@ -1,4 +1,4 @@
 # Exercicio3ListaSequencial
-Repositório destinado a solução do exercício 3 da lista sequencial de java
+Faça um Programa que peça dois números e imprima a soma.
 
 RA: 322125103 - ISABELA GONÇALVES CARDOSO
